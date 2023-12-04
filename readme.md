@@ -1,2 +1,1 @@
-# MERN-frontend
-### you can see live website on https://techienotes.onrender.com/
+### you can se live application on https://techienotes.onrender.com/
