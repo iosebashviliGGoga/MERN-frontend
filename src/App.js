@@ -17,7 +17,7 @@ import { ROLES } from './config/roles'
 import useTitle from './hooks/useTitle';
 import { AnimatePresence } from 'framer-motion'
 function App() {
-  useTitle('Dan D. Repairs')
+  useTitle('Goga I. Repairs')
   const location = useLocation()
   return (
     <AnimatePresence
